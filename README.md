@@ -1,4 +1,4 @@
 gmp
 ===
 
-Gnu Multiple precision implementations
+Gnu Multiple Precision lib implementations
